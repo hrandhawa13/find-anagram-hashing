@@ -9,8 +9,7 @@ using namespace std;
 /*
  * Assignment 5
  *      Created on: July 16, 2017
- *      Author: harmanjit Randhawa-100273846
- *      CPSC 2150 Assignment#5
+ *      Author: harmanjit Randhawa
  *      Reference: using lecture notes and google 
  *      Purpose: to make hash table and then find anagrams of words
  *      int comp is the variable that i used to keep track of how many collisions occured while searching for a word , I printed that on the console
