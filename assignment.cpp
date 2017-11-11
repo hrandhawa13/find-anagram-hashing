@@ -43,9 +43,6 @@ int main(){
    string outFile = "output.txt";
    getWords(dict);//puts all the words into the hash table 
    getInput(inFile, outFile);//gets word from infile and writes its anagram in outfile
-   //print the 2 tables in which all the words are stored 
-   //print(mainVec); 
-  // print(vec2); 
    return 0;
    }
    
