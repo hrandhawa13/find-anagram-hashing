@@ -1,4 +1,5 @@
-# find anagram hashing
+# find anagram
+# hashing, C++, input/output streams, vectors, algorithms and data structures
 it takes input from file and outputs anagram into a different file. 
 It takes 3 files input, output, dictionary. 
 The program searches for the anagrams of words from input file in dictionary (more than 25000 words) 
